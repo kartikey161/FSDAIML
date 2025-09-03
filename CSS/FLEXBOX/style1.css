@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    border: 1px solid red;
+    background-color: rgb(213, 219, 211);
+}
+.child1{
+    border: 1px dotted chartreuse;
+    background-color: rgb(215, 53, 85);
+    height: 400px;
+    width: 350px;
+}
+.child2{
+    border: 1px dotted rgb(164, 31, 120);
+    background-color: cadetblue;
+    height: 400px;
+    width: 350px;
+}
+.child3{
+    border: 1px dotted rgb(77, 32, 174);
+    background-color: rgb(186, 175, 17);
+    height: 400px;
+    width: 350px;
+}
+.child4{
+    border: 1px dotted rgb(11, 20, 2);
+    background-color: rgb(123, 34, 186);
+    height: 400px;
+    width: 350px;
+}
